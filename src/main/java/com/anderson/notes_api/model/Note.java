@@ -1,4 +1,4 @@
-package com.anderson.springboot_notes_api.model;
+package com.anderson.notes_api.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
